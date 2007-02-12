@@ -1,5 +1,5 @@
 Summary:	DevHelp book: libgnome
-Summary(pl.UTF-8):   Książka do DevHelpa o libgnome
+Summary(pl.UTF-8):	Książka do DevHelpa o libgnome
 Name:		devhelp-book-libgnome
 Version:	1.0
 Release:	1
