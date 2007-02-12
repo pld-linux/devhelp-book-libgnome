@@ -1,5 +1,5 @@
 Summary:	DevHelp book: libgnome
-Summary(pl):	Ksi±¿ka do DevHelpa o libgnome
+Summary(pl.UTF-8):   KsiÄ…Å¼ka do DevHelpa o libgnome
 Name:		devhelp-book-libgnome
 Version:	1.0
 Release:	1
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 DevHelp book about libgnome.
 
-%description -l pl
-Ksi±¿ka do DevHelpa o libgnome.
+%description -l pl.UTF-8
+KsiÄ…Å¼ka do DevHelpa o libgnome.
 
 %prep
 %setup -q -c -n libgnome
